@@ -1,5 +1,6 @@
 {
   "name": "cms-blog",
+  "homepage": "https://DemonArtGroup.github.io/blog",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
   "private": true,
